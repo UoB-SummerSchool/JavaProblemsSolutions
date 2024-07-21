@@ -69,10 +69,6 @@ public class P8_Euler_but_extended {
                 i++;
 
         }
-
         return maxProd;
     }
-
-
-
 }
